@@ -1,0 +1,91 @@
+I am reaching out to seek your expertise in resolving a pressing issue we are facing in our financial data analysis process.
+We are responsible for analyzing the financial data of the USA, and the current workflow has proven to be both time-consuming and error-prone,
+impacting our efficiency and costing us additional resources.
+
+
+
+
+Current Process Overview:
+Every day at approximately 3 pm, we receive around 25 files via email from our survey team, which is spread across different locations.
+These files contain crucial data that must be processed and analysed to produce a comprehensive dashboard by 8 pm the same day. The process involves several critical steps:
+1.	Downloading Files: Collecting all the daily files from the email.
+2.	Combining Files: Merging all the individual files into a single consolidated file.
+3.	Cleaning Files: Performing necessary data cleaning to ensure accuracy and consistency.
+4.	Building Dashboard: Creating and updating the dashboard based on the cleaned data.
+5.	Sharing Insights: Delivering the final analysis and insights to the client, which is the US government.
+
+
+
+
+Challenges Faced:
+●	Time Consumption: A significant portion of our time is spent downloading, combining, and cleaning the files. Despite hiring two additional employees to assist with these tasks,
+we are still experiencing delays.
+●	Increased Costs: The additional hires have resulted in an extra expense of $12,000 per month.
+●	Error Rates: We encounter numerous errors during data manipulation, which further exacerbates delays and impacts the accuracy of our analysis.
+●	Workload Management: The increased workload has started affecting other projects, leading to a decrease in overall efficiency.   
+
+
+
+
+Given these challenges, I am seeking your help in   improving our current process. Specifically, I would like to explore solutions that can help us:
+ Reduce Time: Identify ways to speed up the processes of downloading, combining, and cleaning the data.
+1.	Minimize Errors: Implement strategies to reduce errors during data manipulation and processing.
+2.	Reduce Costs: Explore solutions to cut down on the additional labour costs and improve cost efficiency.
+3.	Reduce Workload: Find ways to manage and streamline the workload to avoid negatively impacting other projects.
+Your expertise in finding solutions to these problems would be invaluable in helping us improve our efficiency and overall performance.
+I look forward to your help on how we can optimize our current workflow and solve the problems.
+
+
+
+
+MAIL 2
+
+Thank you for automating the process, it is saving a lot of time for me. Now for the dashboard, I need these few things.
+
+
+1.  	Show information’s like
+            	Average Annual Income.
+            	Average Monthly balance.
+            	Average number of delays in payment.
+           	Average Credit Utilisation.
+
+2.  	Investigate the relationship between age and changes in credit limit. Analyse how variations in customer age correlate with adjustments in their credit limits to understand
+if and how credit limit changes are influenced by age-related factors. This insight can help in tailoring credit products and strategies based on different age demographics.
+How is the payment behaviour of people different for different credit mix categories?
+
+3.  	Generate a distribution plot to visualise the age demographics of the customer base. This plot should illustrate the frequency and distribution of various ages to provide
+insights into the age profile of the population served, aiding in targeted marketing and service strategies.
+
+4.  	I want to see a number of people of different age groups having  different kinds of credit scores.
+  for making the age group consider the following rule: -
+               	14-19   “Teen”
+               	19-25   “Young Adult”
+               	25-35   “Old Adult”
+               	35-45   “Old1”
+               	>45  	“Old2”
+
+5.	Analyse the frequency of various payment behaviours within each credit mix category. Examine how often different payment behaviours occur across different types of credit mixes.
+This analysis will provide insights into payment behaviour trends associated with each credit mix, helping to tailor risk management and credit strategies.
+
+6.  	From the data available, is it possible to know the age group of my  potential customers (for approaching loans), if yes then please show how.
+
+7.  	From the data of previous task, I got clear that, I have few ages group as potential customers, however now I want in depth study of it,
+all those ages will be my potential customers where age average inquiry is more than 7.5
+
+8.  	I shared your insights on the basis of age groups to higher management and they are very happy with your insights. They have asked to find LTV scores for each year group,
+and based on the LTV score roll out following promotions.
+    if LTV > 80000  -  “30% off on online purchases +home loan at 4% interest”
+    	LTV between (60000-80000)   -  “15% off on online purchases+10000 worth gift hampers”
+    	LTV between (50000-60000)   -  “Any loan at 5% interest rate”
+
+
+ to calculate LTV- use following formula
+LTV= (0.3*Average annual Income of the age)-(0.15*Average days in delay of payment from due date for that age )+0.4(Average of credit score[to calculate
+credit score go down good-3 bad -0])+(0.075*Average Amount Invested)+(0.075*Average Monthly balance)
+
+9- Calculate the average number of loans and credit cards held by customers across different age. Present these averages and analyse the data to uncover trends and insights
+related to credit card ownership by age. This analysis will help in understanding how credit card usage varies with age,
+which can inform targeted credit card offers and marketingstrategies.
+
+10 - Please Create a visual that will show the count of each type of loans that are  dispersed till now,this will help the
+company to keep a record of which is the most popular loans and roll out offers Accordingly. 
